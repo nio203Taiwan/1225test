@@ -1,0 +1,5 @@
+{
+  "name": "Variable Sorting Battle",
+  "description": "An interactive educational game to help students learn scientific experimental variables by sorting them into Manipulated, Controlled, and Responding categories.",
+  "requestFramePermissions": []
+}
